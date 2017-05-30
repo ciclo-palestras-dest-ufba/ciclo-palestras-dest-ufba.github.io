@@ -12,13 +12,13 @@ title_separator          : "-"
 name                     : "Ciclo de Palestras"
 description              : "Website para divulgação dos materiais do Ciclo de Palestras - DEST/UFBA."
 url                      : "https://ciclo-palestras-dest-ufba.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : ""
 repository               : ciclo-palestras-dest-ufba/ciclo-palestras-dest-ufba.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "facebook"
+  provider               : # "facebook"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -26,8 +26,8 @@ comments:
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                : 
-    num_posts            : 10 
-    colorscheme          : "light"
+    num_posts            : #10 
+    colorscheme          : #"light"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master"
@@ -174,7 +174,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: America/Recife
+timezone: 
 
 
 # Plugins
