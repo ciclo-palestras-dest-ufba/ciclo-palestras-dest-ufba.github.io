@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Ciclo de Palestras - Departamento de Estatística - UFBA"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Ciclo de Palestras"
+description              : "Website do Ciclo de Palestras - DEST/UFBA."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ciclo de Palestras - DEST/UFBA"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  location         : "Salvador - BA"
+  email            : ciclo.palestras.dest.ufba@gmail.com
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
