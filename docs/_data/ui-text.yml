@@ -235,7 +235,7 @@ pt-BR:
   menu_label                 :
   toc_label                  : "Nesta página"
   ext_link_label             : "Link direto"
-  less_than                  : "menos que"
+  less_than                  : "meno que"
   minute_read                : "minutos de leitura"
   share_on_label             : "Compartilhe em"
   meta_label                 :
@@ -253,17 +253,17 @@ pt-BR:
   email_label                : "Email"
   recent_posts               : "Postagens recentes"
   undefined_wpm              : "Parâmetro indefinido em word_per_minute no _config.yml"
-  comment_form_info          : "O seu endereço email não será publicado. Os campos obrigatórios estão assinalados"
-  comment_form_comment_label : "Comentário"
-  comment_form_md_info       : "Markdown é suportado"
-  comment_form_name_label    : "Nome" 
-  comment_form_email_label   : "Endereço de email"
-  comment_form_website_label : "Site (opcional)"
-  comment_btn_submit         : "Submeter comentário"
-  comment_btn_submitted      : "Submetido"
-  comment_success_msg        : "Obrigado pelo seu comentário! Será visível no site logo que aprovado."
-  comment_error_msg          : "Lamento, ocorreu um erro na sua submissão."
-  loading_label              : "Carregando"
+  comment_form_info          :
+  comment_form_comment_label :
+  comment_form_md_info       :
+  comment_form_name_label    :
+  comment_form_email_label   :
+  comment_form_website_label :
+  comment_btn_submit         :
+  comment_btn_submitted      :
+  comment_success_msg        :
+  comment_error_msg          :
+  loading_label              :
 pt-PT:
   <<: *DEFAULT_PT
 
