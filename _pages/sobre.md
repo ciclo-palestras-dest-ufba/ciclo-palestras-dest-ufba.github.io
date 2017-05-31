@@ -12,7 +12,7 @@ defaults:
 
 ### Sobre 
 
-O Ciclo de Palestras é uma atividade de extensão do departamento de estatística da UFBA, coordenada atualmente por Lizandra Fabio (lizandra.fabio@ufba.br) e Bruno Santos (brunorsantos@ufba.br).
+O Ciclo de Palestras é uma atividade de extensão do departamento de estatística da UFBA, coordenada atualmente por Lizandra Fabio 
 
 #### Divulgação
 
