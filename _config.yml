@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : /assets/images/logo.jpeg"
+  avatar           : "/assets/images/logo.jpeg"
   bio              : "Buscando aumentar a divulgação da ciência estatística no Brasil."
   location         : "Salvador - BA"
   email            : ciclo.palestras.dest.ufba@gmail.com
