@@ -2,7 +2,7 @@
 title: Palestra Anderson Ara, UFBA
 ---
 
-Título:  MULTIVARIATE ALPHA SKEW NORMAL MODEL TO BINARY CLASSIFICATION
+Título:  Multivariate Alpha Skew Normal Model to Binary Classification
 
 Resumo: This presentation exposes the proposition of a new class of probability distributions, called multivariate alpha skew normal, an extension of the univariate alpha skew distribution introduced by Elal-Olivero (2010). The new distribution is very flexible, capable of assuming up to two modes and generalizes the distribution proposed by Elal-Olivero in its marginal components. In addition, we apply this new distribution in the construction of new data mining methods directed to binary classification. The results indicate that the new proposition is significantly more appropriate than the usual modeling through the classical normal distribution, as well as being equally suitable for data sets without the presence of asymmetry.
 
