@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Palestra Katiane Conceição, ICMC-USP
 ---
 
@@ -10,3 +11,5 @@ Data: 20/04/2017
 Local : Sala 12 do Instituto de Matemática e Estatística da UFBA.
 
 {% include video id="R92NyozuFg" provider="youtube" %}
+
+
