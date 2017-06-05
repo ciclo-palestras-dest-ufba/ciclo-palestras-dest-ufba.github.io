@@ -11,6 +11,6 @@ Local: Auditório do Instituto de Matemática e Estatística da UFBA.
 
 {% include video id="KzzXo8DPfkQ" provider="youtube" %}
 
-Os slides da palestras podem ser baixados [aqui](DANI2017UFBA.pdf).
+Os slides da palestras podem ser baixados [aqui](../DANI2017UFBA.pdf).
 
 
