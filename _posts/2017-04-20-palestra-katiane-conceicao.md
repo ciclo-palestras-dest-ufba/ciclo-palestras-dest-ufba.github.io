@@ -10,3 +10,7 @@ Data: 20/04/2017
 Local : Sala 12 do Instituto de Matemática e Estatística da UFBA.
 
 {% include video id="R92NyozuFg" provider="youtube" %}
+
+Caso o link acima não funcione, você pode checar o vídeo do YouTube [aqui](https://www.youtube.com/watch?v=-R92NyozuFg).
+
+Os slides da palestra podem ser encontrados [aqui](../arquivos/Presentation_UFBA2017.pdf)
