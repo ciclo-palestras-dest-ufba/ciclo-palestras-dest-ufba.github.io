@@ -1,5 +1,6 @@
 ---
 permalink: /sobre/
+layout: splash
 ---
 
 ## Sobre
