@@ -2,10 +2,10 @@
 permalink: /responsaveis/
 ---
 
-## Lizandra Castilho Fabio
+#### Lizandra Fabio
 
 Lizandra 
 
-## Bruno Ramos dos Santos
+#### Bruno Santos
 
 Bruno tem formação em Estatística, com bacharelado, mestrado e doutorado em Estatística pela USP. Suas principais áreas de interesse incluem modelos de regressão quantílica e inferência Bayesiana. 
