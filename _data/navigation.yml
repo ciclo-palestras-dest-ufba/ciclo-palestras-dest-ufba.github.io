@@ -1,5 +1,10 @@
 # main links
 main:
   - title: "Sobre"
-    url: https://ciclo-palestras-dest-ufba.github.io/sobre/
+    url: sobre.md
+  - title: "Responsáveis"
+    url: responsaveis.md
+  - title: "Links"
+    url: links.md
+  
 
