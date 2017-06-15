@@ -1,6 +1,6 @@
 ---
 permalink: /sobre/
-layout: default
+layout: single
 ---
 
 ## Sobre
