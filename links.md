@@ -1,8 +1,7 @@
 ---
 permalink: /links/
+layout: splash
 ---
-
-#### Links
 
 ## Canal no Youtube
 
