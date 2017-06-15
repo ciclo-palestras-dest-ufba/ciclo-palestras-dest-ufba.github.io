@@ -1,9 +1,5 @@
 ---
 permalink: /links/
-defaults:
-  - scope:
-      path: ""
-      type: pages
 ---
 
 ### Canal no Youtube

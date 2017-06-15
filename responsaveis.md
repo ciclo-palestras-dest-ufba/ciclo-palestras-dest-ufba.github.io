@@ -1,11 +1,5 @@
 ---
 permalink: /responsaveis/
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
 ---
 
 ### Responsáveis

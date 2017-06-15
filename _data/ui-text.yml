@@ -251,7 +251,7 @@ pt-BR:
   powered_by                 : "Feito com"
   website_label              : "Site"
   email_label                : "Email"
-  recent_posts               : "Postagens recentes"
+  recent_posts               : "Palestras recentes"
   undefined_wpm              : "Parâmetro indefinido em word_per_minute no _config.yml"
   comment_form_info          : "O seu endereço email não será publicado. Os campos obrigatórios estão assinalados"
   comment_form_comment_label : "Comentário"
