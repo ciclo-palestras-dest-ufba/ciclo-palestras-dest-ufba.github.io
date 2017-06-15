@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "Sobre"
-    url: sobre.md
+    url: /sobre.md
   - title: "Responsáveis"
-    url: responsaveis.md
+    url: /responsaveis.md
   - title: "Links"
-    url: links.md
+    url: /links.md
   
 
