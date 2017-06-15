@@ -2,8 +2,6 @@
 permalink: /responsaveis/
 ---
 
-### Responsáveis
-
 ## Lizandra Castilho Fabio
 
 Lizandra 
