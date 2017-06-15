@@ -6,7 +6,6 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
 ---
 
 ### Responsáveis
