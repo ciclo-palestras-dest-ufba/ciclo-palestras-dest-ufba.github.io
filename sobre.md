@@ -1,5 +1,6 @@
 ---
 layout: home
+permalink: /sobre/
 defaults:
   - scope:
       path: ""

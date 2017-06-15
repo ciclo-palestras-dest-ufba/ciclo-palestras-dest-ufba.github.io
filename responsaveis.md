@@ -1,5 +1,6 @@
 ---
 layout: home
+permalink: /responsaveis/
 defaults:
   - scope:
       path: ""
